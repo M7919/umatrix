@@ -119,6 +119,7 @@
 0.0.0.0 shareaholic.net
 0.0.0.0 mailchimp.com 
 0.0.0.0 cackle.me
+0.0.0.0 cloudflareinsights.com 
 0.0.0.0 ulogin.ru
 0.0.0.0 loadercdn.com
 0.0.0.0 adbetnet.com 
