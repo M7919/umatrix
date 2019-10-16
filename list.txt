@@ -33,9 +33,6 @@
 0.0.0.0 aspnetcdn.com
 0.0.0.0 pinterest.com 
 0.0.0.0 mail.ru
-0.0.0.0 yandex.ru
-0.0.0.0 yandex.net
-0.0.0.0 yandex.st
 0.0.0.0 yastat.net
 0.0.0.0 yastatic.net
 0.0.0.0 typekit.net
@@ -260,6 +257,7 @@
 0.0.0.0 giraff.io  
 0.0.0.0 instreamatic.com  
 0.0.0.0 plrjs.com  
+0.0.0.0 pljs.ru
 0.0.0.0 shortpixel.ai  
 0.0.0.0 smi2.net  
 0.0.0.0 viks.tv  
@@ -267,3 +265,11 @@
 0.0.0.0 cookielaw.org
 0.0.0.0 tapcontrol.ru
 0.0.0.0 goontex.com 
+0.0.0.0 5vul2bdy.store  
+0.0.0.0 aj1713.online 
+0.0.0.0 aso1.net 
+0.0.0.0 buzzoola.com 
+0.0.0.0 hdstream.in  
+0.0.0.0 moevideo.biz  
+0.0.0.0 zetrade.net 
+0.0.0.0 kxcdn.com
