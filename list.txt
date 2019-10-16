@@ -31,9 +31,13 @@
 0.0.0.0 bootstrapcdn.com 
 0.0.0.0 gravatar.com
 0.0.0.0 aspnetcdn.com
-0.0.0.0 nsstatic.com 
 0.0.0.0 pinterest.com 
 0.0.0.0 mail.ru
+0.0.0.0 yandex.ru
+0.0.0.0 yandex.net
+0.0.0.0 yandex.st
+0.0.0.0 yastat.net
+0.0.0.0 yastatic.net
 0.0.0.0 typekit.net
 0.0.0.0 fontawesome.com
 0.0.0.0 adobe.com 
