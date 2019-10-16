@@ -235,3 +235,6 @@
 0.0.0.0 kornavals.info
 0.0.0.0 ibb.co
 0.0.0.0 greentea.ru
+0.0.0.0 cookielaw.org
+0.0.0.0 tapcontrol.ru
+0.0.0.0 goontex.com
