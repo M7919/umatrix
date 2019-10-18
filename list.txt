@@ -122,6 +122,7 @@
 0.0.0.0 adbetnet.com 
 0.0.0.0 brightcove.com 
 0.0.0.0 brightcove.net
+0.0.0.0 nsstatic.net
 0.0.0.0 civiccomputing.com 
 0.0.0.0 clickiocdn.com
 0.0.0.0 contentbooster.me 
