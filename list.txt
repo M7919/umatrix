@@ -276,3 +276,4 @@
 0.0.0.0 zetrade.net 
 0.0.0.0 kxcdn.com
 0.0.0.0 geronaimus.com
+0.0.0.0 gnezdo.ru
