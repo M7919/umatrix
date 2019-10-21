@@ -36,6 +36,7 @@
 0.0.0.0 yandex.ru
 0.0.0.0 yastat.net
 0.0.0.0 yastatic.net
+0.0.0.0 yandex.st
 0.0.0.0 typekit.net
 0.0.0.0 fontawesome.com
 0.0.0.0 adobe.com 
