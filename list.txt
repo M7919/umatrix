@@ -53,6 +53,7 @@
 0.0.0.0 brightcove.com 
 0.0.0.0 brightcove.net
 0.0.0.0 nsstatic.net
+0.0.0.0 cdn.nsstatic.com
 #
 0.0.0.0 cookielaw.org
 0.0.0.0 aio.media
@@ -73,5 +74,6 @@
 0.0.0.0 finobzor.ru
 0.0.0.0 politobzor.net
 0.0.0.0 smi2.ru
+0.0.0.0 static.smi2.net
 0.0.0.0 cloudflareinsights.com 
 0.0.0.0 ezoic.net
