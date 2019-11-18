@@ -74,3 +74,7 @@
 0.0.0.0 cloudflareinsights.com 
 0.0.0.0 ezoic.net
 0.0.0.0 ezojs.com 
+0.0.0.0 aio.media
+0.0.0.0 clickiocdn.com
+0.0.0.0 videoplayerhub.com
+0.0.0.0 vo-media.ru 
