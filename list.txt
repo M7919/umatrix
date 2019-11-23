@@ -4,6 +4,7 @@
 0.0.0.0 google.com
 0.0.0.0 youtube.com
 0.0.0.0 gstatic.com 
+0.0.0.0 ampproject.org
 0.0.0.0 doubleclick.net
 0.0.0.0 googlecommerce.com
 0.0.0.0 ajax.googleapis.com
@@ -78,3 +79,4 @@
 0.0.0.0 clickiocdn.com
 0.0.0.0 videoplayerhub.com
 0.0.0.0 vo-media.ru 
+0.0.0.0 sftcdn.net
