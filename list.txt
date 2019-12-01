@@ -80,3 +80,8 @@
 0.0.0.0 videoplayerhub.com
 0.0.0.0 vo-media.ru 
 0.0.0.0 sftcdn.net
+0.0.0.0 kalashnikov.media
+0.0.0.0 actionbutton.co
+0.0.0.0 buzzsprout.com
+0.0.0.0 gnezdo.ru
+0.0.0.0 usocial.pro
