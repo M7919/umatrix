@@ -56,9 +56,9 @@
 0.0.0.0 brightcove.net
 0.0.0.0 nsstatic.net
 0.0.0.0 cdn.nsstatic.com
-#
 0.0.0.0 cookielaw.org
 0.0.0.0 cnevids.com
+#
 0.0.0.0 sendpulse.com 
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
 0.0.0.0 h-bid.com 
@@ -115,4 +115,5 @@
 0.0.0.0 lentainform.com
 0.0.0.0 relap.io
 0.0.0.0 video-play.ru
-
+0.0.0.0 licdn.com 
+0.0.0.0 roxot-panel.com
