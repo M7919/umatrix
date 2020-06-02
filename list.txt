@@ -21,6 +21,7 @@
 0.0.0.0 userapi.com
 0.0.0.0 vkontakte.ru
 0.0.0.0 disqus.com 
+0.0.0.0 disquscdn.com
 0.0.0.0 twimg.com
 0.0.0.0 twitter.com 
 0.0.0.0 cloudflare.com
@@ -58,6 +59,9 @@
 0.0.0.0 cdn.nsstatic.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cnevids.com
+0.0.0.0 linkedin.com
+0.0.0.0 rambler.ru 
+0.0.0.0 onesignal.com 
 #
 0.0.0.0 sendpulse.com 
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
@@ -117,3 +121,8 @@
 0.0.0.0 video-play.ru
 0.0.0.0 licdn.com 
 0.0.0.0 roxot-panel.com
+0.0.0.0 2xclick.ru
+0.0.0.0 black-ocean.me
+0.0.0.0 optad360.io
+0.0.0.0 vox-cdn.com
+0.0.0.0 wargaming.net
