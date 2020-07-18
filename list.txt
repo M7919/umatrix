@@ -11,6 +11,7 @@
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 google-analytics.com 
 0.0.0.0 googletagmanager.com 
+0.0.0.0 youtube-nocookie.com
 0.0.0.0 googleusercontent.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 facebook.com
@@ -126,3 +127,8 @@
 0.0.0.0 optad360.io
 0.0.0.0 vox-cdn.com
 0.0.0.0 wargaming.net
+0.0.0.0 franeski.net
+0.0.0.0 plrjs.org
+0.0.0.0 rstbtmd.com
+0.0.0.0 sftapi.com
+0.0.0.0 videoroll.net
